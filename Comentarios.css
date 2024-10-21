@@ -86,6 +86,7 @@ h1 {
     margin: 5rem 0 5rem 0;
     font-family: 'Kdam Thmor Pro', sans-serif;
     font-size: 40px;
+    color: aliceblue;
 }
 
 .cards {
@@ -115,6 +116,7 @@ h1 {
 .card h3 {
     font-family: sans-serif;
     margin-bottom: 5px;
+    color: aliceblue;
 }
 
 p {
@@ -122,6 +124,7 @@ p {
     text-align: center;
     font-family: sans-serif;
     font-size: 18px;
+    color: aliceblue;
 }
 
 .star {
